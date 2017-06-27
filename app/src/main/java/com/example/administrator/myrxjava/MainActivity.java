@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
 //                    public void call(Integer integer) {Toast.makeText(MainActivity.this, integer+"", Toast.LENGTH_SHORT).show();}
 //                });
 
-
         count = 10;
         CountDownTimer countDownTimer = new CountDownTimer(10200, 1000) {
             @Override
@@ -155,19 +154,13 @@ public class MainActivity extends AppCompatActivity {
 //        });
 
 
+
+
     }
 
+    public void onClick(){
 
-
-
-
-
-
-
-
-
-
-
+    }
 
 
 
